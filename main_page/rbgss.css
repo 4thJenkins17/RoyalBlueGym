@@ -1,0 +1,72 @@
+* html, body {
+	margin: 0;
+	padding: 0;
+}
+
+#index {
+	background-color: #FFD700;
+}
+
+#image{
+	width: 600px;
+	height: 750px;
+	padding: 0px 0px;
+}
+
+#slideImg {
+	padding-top: 35px;
+	width: 100%;
+	height: 350px;
+}
+
+.w3-yellow {
+	color: #FFD700;
+}
+
+#summary{
+	position: relative;
+	top: -75px;
+	width: 450px;
+	padding: 70px 0px;
+}
+
+#NAVLIST {
+	text-align: center;
+}
+
+.w3-blue {
+	color: #4169E1;
+}
+
+.w3-text-blue {
+	color: #4169E1;
+}
+
+.w3-border-blue {
+	color: #4169E1;
+}
+
+#page {
+	width: 1500px;
+	height: 625px;
+	background-color: white;
+
+}
+
+.w3-container {
+	width: 1500px;
+}
+
+#page1 {
+	width: 675px;
+	height: 450px;
+	background-color: white;
+
+}
+
+#page2 {
+	width: 750px;
+	height: 650px;
+	background-color: white;
+
+}
